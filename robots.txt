@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arsegande.github.io/sitemap.html.gz
+Sitemap: https://arsegande.github.io/app/sitemap.html.gz
+Sitemap: https://arsegande.github.io/assets/sitemap.html.gz
+Sitemap: https://arsegande.github.io/css/sitemap.html.gz
+Sitemap: https://arsegande.github.io/includes/sitemap.html.gz
+Sitemap: https://arsegande.github.io/item/sitemap.html.gz
+Sitemap: https://arsegande.github.io/src/sitemap.html.gz
